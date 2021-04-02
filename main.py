@@ -5,7 +5,11 @@ import os
 from github import Github
 
 MD_HEAD = """## Gitblog
-My personal blog using issues and GitHub Actions
+通过 issues 和 GitHub Actions 记录 ARTS。
+- A（Algorithm），主要做 LeetCode 的题目
+- R（Review），主要读 Medium 的文章
+- T（Tips），以 issues 标题的形式，记录一些小的技术点
+- S（Share），分享有关价值观的内容，可能是别人的，可能是自己的
 """
 
 BACKUP_DIR = "BACKUP"
