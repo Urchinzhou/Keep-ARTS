@@ -13,9 +13,6 @@
 ## algorithm
 - [83. Remove Duplicates from Sorted List](https://github.com/Urchinzhou/Keep-ARTS/issues/5)--2021-04-06
 - [Tow Sum](https://github.com/Urchinzhou/Keep-ARTS/issues/2)--2021-03-28
-## esay
-- [83. Remove Duplicates from Sorted List](https://github.com/Urchinzhou/Keep-ARTS/issues/5)--2021-04-06
-- [Tow Sum](https://github.com/Urchinzhou/Keep-ARTS/issues/2)--2021-03-28
 ## review
 - [New job at Glitch! And why I left Google, again](https://github.com/Urchinzhou/Keep-ARTS/issues/7)--2021-04-07
 - [Find Your First Bug — #3 CVE’s](https://github.com/Urchinzhou/Keep-ARTS/issues/3)--2021-04-02
