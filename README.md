@@ -7,12 +7,12 @@
 ## 最近更新
 - [New job at Glitch! And why I left Google, again](https://github.com/Urchinzhou/Keep-ARTS/issues/7)--2021-04-07
 - [Ajax(Asynchronous Javascript XML)](https://github.com/Urchinzhou/Keep-ARTS/issues/6)--2021-04-06
-- [83. Remove Duplicates from Sorted List](https://github.com/Urchinzhou/Keep-ARTS/issues/5)--2021-04-06
+- [83. Remove Duplicates from Sorted List【Easy】](https://github.com/Urchinzhou/Keep-ARTS/issues/5)--2021-04-06
 - [HTTPS = HTTP + TLS，TLS 是 SSL 的升级版，SSL 早已被舍弃，目前主流是 TLS1.2。](https://github.com/Urchinzhou/Keep-ARTS/issues/4)--2021-04-02
 - [Find Your First Bug — #3 CVE’s](https://github.com/Urchinzhou/Keep-ARTS/issues/3)--2021-04-02
 ## algorithm
-- [83. Remove Duplicates from Sorted List](https://github.com/Urchinzhou/Keep-ARTS/issues/5)--2021-04-06
-- [1.Tow Sum【easy】](https://github.com/Urchinzhou/Keep-ARTS/issues/2)--2021-03-28
+- [83. Remove Duplicates from Sorted List【Easy】](https://github.com/Urchinzhou/Keep-ARTS/issues/5)--2021-04-06
+- [1.Tow Sum【Easy】](https://github.com/Urchinzhou/Keep-ARTS/issues/2)--2021-03-28
 ## review
 - [New job at Glitch! And why I left Google, again](https://github.com/Urchinzhou/Keep-ARTS/issues/7)--2021-04-07
 - [Find Your First Bug — #3 CVE’s](https://github.com/Urchinzhou/Keep-ARTS/issues/3)--2021-04-02
