@@ -5,11 +5,11 @@
 - T（Tips），以 issues 标题的形式，记录一些小的技术点
 - S（Share），分享有关价值观的内容，可能是别人的，可能是自己的
 ## 最近更新
+- [连接 MySQL 时，连接命令的 -p 参数后不要直接跟密码，会通过控制台的历史信息泄露。](https://github.com/Urchinzhou/Keep-ARTS/issues/14)--2021-04-28
 - [88. Merge Sorted Array【Easy】](https://github.com/Urchinzhou/Keep-ARTS/issues/13)--2021-04-26
 - [CSRF to Full Account Takeover](https://github.com/Urchinzhou/Keep-ARTS/issues/12)--2021-04-23
 - [一个已验证的DLL劫持 payload](https://github.com/Urchinzhou/Keep-ARTS/issues/11)--2021-04-19
 - [jar 是 Java 归档文件，只能打包代码，arr 是 Android 归档文件，能打包资源。](https://github.com/Urchinzhou/Keep-ARTS/issues/10)--2021-04-13
-- [你所需要的健康的生活方式或许只是多走一点。](https://github.com/Urchinzhou/Keep-ARTS/issues/9)--2021-04-13
 ## algorithm
 - [88. Merge Sorted Array【Easy】](https://github.com/Urchinzhou/Keep-ARTS/issues/13)--2021-04-26
 - [7. Reverse Integer【Easy】](https://github.com/Urchinzhou/Keep-ARTS/issues/8)--2021-04-12
@@ -24,6 +24,7 @@
 - [一个已验证的DLL劫持 payload](https://github.com/Urchinzhou/Keep-ARTS/issues/11)--2021-04-19
 - [你所需要的健康的生活方式或许只是多走一点。](https://github.com/Urchinzhou/Keep-ARTS/issues/9)--2021-04-13
 ## tips
+- [连接 MySQL 时，连接命令的 -p 参数后不要直接跟密码，会通过控制台的历史信息泄露。](https://github.com/Urchinzhou/Keep-ARTS/issues/14)--2021-04-28
 - [jar 是 Java 归档文件，只能打包代码，arr 是 Android 归档文件，能打包资源。](https://github.com/Urchinzhou/Keep-ARTS/issues/10)--2021-04-13
 - [Ajax(Asynchronous Javascript XML)](https://github.com/Urchinzhou/Keep-ARTS/issues/6)--2021-04-06
 - [HTTPS = HTTP + TLS，TLS 是 SSL 的升级版，SSL 早已被舍弃，目前主流是 TLS1.2。](https://github.com/Urchinzhou/Keep-ARTS/issues/4)--2021-04-02
