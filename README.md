@@ -3,7 +3,7 @@
 - A（Algorithm），主要做 LeetCode 的题目
 - R（Review），主要读 Medium 的文章
 - T（Tips），以 issues 标题的形式，记录一些小的技术点
-- S（Share），分享有关价值观的内容，可能是别人的，可能是自己的
+- S（Share），分享一些有趣的内容
 ## 最近更新
 - [100. Same Tree.【Easy】](https://github.com/Urchinzhou/Keep-ARTS/issues/16)--2021-05-06
 - [I tried planking for 5 minutes every day for a month and it made my back feel great.](https://github.com/Urchinzhou/Keep-ARTS/issues/15)--2021-05-06
