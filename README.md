@@ -3,13 +3,13 @@
 - A（Algorithm），主要做 LeetCode 的题目
 - R（Review），主要读 Medium 的文章
 - T（Tips），以 issues 标题的形式，记录一些小的技术点
-- S（Share），分享有关价值观的内容，可能是别人的，可能是自己的
+- S（Share），分享有趣的内容
 ## 最近更新
+- [extern"C"的作用是，实现类C和C++的混合编程。](https://github.com/Urchinzhou/Keep-ARTS/issues/18)--2021-05-29
 - [在线markdown转PPT](https://github.com/Urchinzhou/Keep-ARTS/issues/17)--2021-05-14
 - [100. Same Tree.【Easy】](https://github.com/Urchinzhou/Keep-ARTS/issues/16)--2021-05-06
 - [I tried planking for 5 minutes every day for a month and it made my back feel great.](https://github.com/Urchinzhou/Keep-ARTS/issues/15)--2021-05-06
 - [连接 MySQL 时，连接命令的 -p 参数后不要直接跟密码，会通过控制台的历史信息泄露。](https://github.com/Urchinzhou/Keep-ARTS/issues/14)--2021-04-28
-- [88. Merge Sorted Array【Easy】](https://github.com/Urchinzhou/Keep-ARTS/issues/13)--2021-04-26
 ## algorithm
 - [100. Same Tree.【Easy】](https://github.com/Urchinzhou/Keep-ARTS/issues/16)--2021-05-06
 - [88. Merge Sorted Array【Easy】](https://github.com/Urchinzhou/Keep-ARTS/issues/13)--2021-04-26
@@ -27,6 +27,7 @@
 - [一个已验证的DLL劫持 payload](https://github.com/Urchinzhou/Keep-ARTS/issues/11)--2021-04-19
 - [你所需要的健康的生活方式或许只是多走一点。](https://github.com/Urchinzhou/Keep-ARTS/issues/9)--2021-04-13
 ## tips
+- [extern"C"的作用是，实现类C和C++的混合编程。](https://github.com/Urchinzhou/Keep-ARTS/issues/18)--2021-05-29
 - [连接 MySQL 时，连接命令的 -p 参数后不要直接跟密码，会通过控制台的历史信息泄露。](https://github.com/Urchinzhou/Keep-ARTS/issues/14)--2021-04-28
 - [jar 是 Java 归档文件，只能打包代码，arr 是 Android 归档文件，能打包资源。](https://github.com/Urchinzhou/Keep-ARTS/issues/10)--2021-04-13
 - [Ajax(Asynchronous Javascript XML)](https://github.com/Urchinzhou/Keep-ARTS/issues/6)--2021-04-06
